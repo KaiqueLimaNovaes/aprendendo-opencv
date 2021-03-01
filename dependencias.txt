@@ -1,0 +1,8 @@
+pip install virtualenv - na pasta principal
+
+mkdir
+
+Scripts -> activate - na pasta que vc criou
+
+
+pip install opencv-python - na pasta principal
